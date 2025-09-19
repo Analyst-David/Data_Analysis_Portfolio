@@ -18,7 +18,7 @@ My passion lies in helping businesses and individuals make informed decisions us
 ## 📊 Featured Projects
 Here are some of the projects I've worked on (click to explore):
 
-- 🏥 [Hospital Emergency Room Analysis](#) — Power BI dashboard analyzing patient visits, satisfaction, and referrals.  
+- 🏥 [Hospital Emergency Room Analysis](www.google.com) — Power BI dashboard analyzing patient visits, satisfaction, and referrals.  
 - 🚗 [Green Wheels Ltd Sales Dashboard](#) — Analyzing vehicle sales, sustainability, and customer segments.  
 - 🎓 [Student Performance Analysis](#) — Identifying key factors influencing academic outcomes.  
 - 📦 [Retail Sales Data Exploration](#) — SQL-based analysis of store sales performance and customer behavior.  
